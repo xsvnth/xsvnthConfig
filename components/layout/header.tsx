@@ -36,7 +36,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2 group">
           <Cpu className="w-6 h-6 text-neon-purple group-hover:text-neon-cyan transition-colors duration-300" />
           <span className="font-orbitron text-lg md:text-xl font-black tracking-[0.2em] text-white group-hover:text-glow-purple transition-all duration-300">
-            NEXORY
+            7THCONFIG
           </span>
         </Link>
 

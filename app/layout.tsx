@@ -18,11 +18,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'NEXORY RAM | Elite DDR5 Memory & Gaming PCs',
+  title: '7thconfig | Elite DDR5 Memory & Gaming PCs',
   description:
-    'Unlock extreme performance with NEXORY elite DDR5 RAM and custom gaming configurations built for power users.',
+    'Unlock extreme performance with 7thconfig elite DDR5 RAM and custom gaming configurations built for power users.',
   openGraph: {
-    title: 'NEXORY RAM | Elite DDR5 Memory & Gaming PCs',
+    title: '7thconfig | Elite DDR5 Memory & Gaming PCs',
     description: 'Elite DDR5 RAM and custom gaming configurations built for power users.',
   },
 };

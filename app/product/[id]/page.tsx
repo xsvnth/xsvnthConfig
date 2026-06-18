@@ -144,7 +144,7 @@ export default function ProductPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {[
                 { name: 'TechPowerUp', rating: 5, text: 'Exceptional performance. The 7200MHz overclock is stable and the RGB is stunning.' },
-                { name: 'Tom\'s Hardware', rating: 4.5, text: 'Best DDR5 kit we\'ve tested this year. NEXORY sets a new bar for enthusiast memory.' },
+                { name: 'Tom\'s Hardware', rating: 4.5, text: 'Best DDR5 kit we\'ve tested this year. 7thconfig sets a new bar for enthusiast memory.' },
                 { name: 'Gamers Nexus', rating: 5, text: 'Thermal performance is outstanding. The cryo-cool design actually makes a difference.' },
               ].map((review, i) => (
                 <GlowCard key={i} color="purple" className="!p-6">

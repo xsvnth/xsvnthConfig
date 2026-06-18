@@ -5,11 +5,11 @@ import { Cpu, Target, Users, Award, Globe, Zap } from 'lucide-react';
 import { Reveal, GlowCard, RGBDivider } from '@/components/ui-custom/reveal';
 
 const timeline = [
-  { year: '2018', event: 'NEXORY founded with a mission to redefine memory performance.' },
+  { year: '2018', event: '7thconfig founded with a mission to redefine memory performance.' },
   { year: '2020', event: 'Launched first DDR4 lineup with 3600MHz gaming kits.' },
   { year: '2022', event: 'Pioneered DDR5 with the FuryX series at 7200MHz.' },
   { year: '2024', event: 'Quantum RAM Pro hits 8000MHz — industry first.' },
-  { year: '2026', event: 'Next-gen DDR6 research begins. The future is NEXORY.' },
+  { year: '2026', event: 'Next-gen DDR6 research begins. The future is 7thconfig.' },
 ];
 
 const values = [
@@ -31,10 +31,10 @@ export default function AboutPage() {
             OUR STORY
           </p>
           <h1 className="font-orbitron text-4xl md:text-5xl font-black text-white mb-4">
-            ABOUT <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-cyan">NEXORY</span>
+            ABOUT <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-purple to-neon-cyan">7THCONFIG</span>
           </h1>
           <p className="text-white/40 max-w-2xl leading-relaxed mb-12">
-            Born from the obsession of overclockers and the demand of power users, NEXORY exists to push
+            Born from the obsession of overclockers and the demand of power users, 7thconfig exists to push
             the boundaries of what memory can do. We don&apos;t follow standards — we set them.
           </p>
         </Reveal>

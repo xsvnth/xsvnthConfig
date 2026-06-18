@@ -12,7 +12,7 @@ const footerLinks = {
     { label: 'Workstation Builds', href: '/configurator' },
   ],
   Company: [
-    { label: 'About NEXORY', href: '/about' },
+    { label: 'About 7thconfig', href: '/about' },
     { label: 'Contact', href: '/contact' },
     { label: 'Careers', href: '#' },
     { label: 'Press Kit', href: '#' },
@@ -43,12 +43,12 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4">
               <Cpu className="w-6 h-6 text-neon-purple" />
               <span className="font-orbitron text-xl font-black tracking-[0.2em] text-white">
-                NEXORY
+                7THCONFIG
               </span>
             </Link>
             <p className="text-white/40 text-sm leading-relaxed mb-6 max-w-sm">
-              Elite DDR5 memory and custom gaming configurations engineered for
-              power users who demand the absolute best.
+              Elite DDR5 memory and custom gaming configurations engineered by
+              7thconfig for power users who demand the absolute best.
             </p>
             <div className="flex gap-3">
               {socials.map((s, i) => (
@@ -108,7 +108,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-white/20">
-          <p>&copy; 2026 NEXORY RAM. All rights reserved.</p>
+          <p>&copy; 2026 7thconfig. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white/40 transition-colors">Privacy</a>
             <a href="#" className="hover:text-white/40 transition-colors">Terms</a>

@@ -143,7 +143,7 @@ export default function Home() {
               ENGINEERED TO DOMINATE
             </p>
             <h2 className="font-orbitron text-3xl md:text-4xl font-black text-center mb-12 text-white">
-              WHY NEXORY
+              WHY 7THCONFIG
             </h2>
           </Reveal>
 
@@ -178,7 +178,7 @@ export default function Home() {
                 BUILD YOUR DREAM MACHINE
               </h2>
               <p className="text-white/40 mb-8 max-w-md mx-auto">
-                Configure a custom gaming rig with NEXORY memory at its core.
+                Configure a custom gaming rig with 7thconfig memory at its core.
               </p>
               <MagneticButton
                 href="/configurator"

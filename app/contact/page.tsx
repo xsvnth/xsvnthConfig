@@ -6,8 +6,8 @@ import { Mail, MapPin, Phone, Send, MessageSquare, Clock } from 'lucide-react';
 import { Reveal, GlowCard, RGBDivider, MagneticButton } from '@/components/ui-custom/reveal';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'support@nexory.com' },
-  { icon: Phone, label: 'Phone', value: '+1 (888) NEX-RAM1' },
+  { icon: Mail, label: 'Email', value: 'support@7thconfig.com' },
+  { icon: Phone, label: 'Phone', value: '+1 (888) 7TH-CFG1' },
   { icon: MapPin, label: 'HQ', value: 'San Jose, California' },
   { icon: Clock, label: 'Support Hours', value: '24/7 Priority' },
 ];
@@ -152,7 +152,7 @@ export default function ContactPage() {
                 </h3>
                 <div className="space-y-3">
                   {[
-                    'Is NEXORY RAM compatible with my motherboard?',
+                    'Is 7thconfig RAM compatible with my motherboard?',
                     'What warranty do you offer?',
                     'Can I mix DDR4 and DDR5 kits?',
                     'How do I enable XMP profiles?',

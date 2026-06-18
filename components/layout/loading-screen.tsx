@@ -35,7 +35,7 @@ export function LoadingScreen() {
               animate={{ opacity: [0.5, 1, 0.5] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              NEXORY
+              7THCONFIG
             </motion.h1>
             <div className="absolute -inset-4 bg-neon-purple/5 blur-3xl rounded-full" />
           </div>

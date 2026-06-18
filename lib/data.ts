@@ -252,21 +252,21 @@ export const gpuOptions: PCComponent[] = [
 ];
 
 export const ramOptions: PCComponent[] = [
-  { id: 'furyx-32', name: 'NEXORY FuryX 32GB DDR5', category: 'RAM', price: 289, image: '/ram.png' },
-  { id: 'quantum-64', name: 'NEXORY Quantum 64GB DDR5', category: 'RAM', price: 549, image: '/ram.png' },
-  { id: 'neonblade-48', name: 'NEXORY NeonBlade 48GB DDR5', category: 'RAM', price: 219, image: '/ram.png' },
+  { id: 'furyx-32', name: '7thconfig FuryX 32GB DDR5', category: 'RAM', price: 289, image: '/ram.png' },
+  { id: 'quantum-64', name: '7thconfig Quantum 64GB DDR5', category: 'RAM', price: 549, image: '/ram.png' },
+  { id: 'neonblade-48', name: '7thconfig NeonBlade 48GB DDR5', category: 'RAM', price: 219, image: '/ram.png' },
 ];
 
 export const storageOptions: PCComponent[] = [
-  { id: 'nvme-2tb', name: 'NEXORY NVMe Gen5 2TB', category: 'Storage', price: 249, image: '/storage.png' },
-  { id: 'nvme-1tb', name: 'NEXORY NVMe Gen5 1TB', category: 'Storage', price: 149, image: '/storage.png' },
-  { id: 'ssd-2tb', name: 'NEXORY SATA SSD 2TB', category: 'Storage', price: 129, image: '/storage.png' },
+  { id: 'nvme-2tb', name: '7thconfig NVMe Gen5 2TB', category: 'Storage', price: 249, image: '/storage.png' },
+  { id: 'nvme-1tb', name: '7thconfig NVMe Gen5 1TB', category: 'Storage', price: 149, image: '/storage.png' },
+  { id: 'ssd-2tb', name: '7thconfig SATA SSD 2TB', category: 'Storage', price: 129, image: '/storage.png' },
 ];
 
 export const coolingOptions: PCComponent[] = [
-  { id: 'aio-360', name: 'NEXORY Cryo AIO 360mm', category: 'Cooling', price: 199, image: '/cooler.png' },
-  { id: 'aio-240', name: 'NEXORY Cryo AIO 240mm', category: 'Cooling', price: 149, image: '/cooler.png' },
-  { id: 'air-tower', name: 'NEXORY Air Tower Pro', category: 'Cooling', price: 89, image: '/cooler.png' },
+  { id: 'aio-360', name: '7thconfig Cryo AIO 360mm', category: 'Cooling', price: 199, image: '/cooler.png' },
+  { id: 'aio-240', name: '7thconfig Cryo AIO 240mm', category: 'Cooling', price: 149, image: '/cooler.png' },
+  { id: 'air-tower', name: '7thconfig Air Tower Pro', category: 'Cooling', price: 89, image: '/cooler.png' },
 ];
 
 export const moboOptions: PCComponent[] = [
